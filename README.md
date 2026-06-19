@@ -1,6 +1,6 @@
 ## Warm greetings 👋  I'm Jorge Borbinha!
 
- - I'm a results-driven Engineer & Quantitative Researcher, with background in Biomedicine and Physics, and 7+ years of experience employing data analytics and statistical modeling to translate complex data into stategic insights. 
+ - I'm a results-driven Data Analyst & Quantitative Researcher, with background in Biomedicine and Physics, and 7+ years of experience employing data analytics and statistical modeling to translate complex data into stategic insights. 
  - I have strong expertise in Python, Fortran and C++, with hands-on experience in data analytics/visualization libraries. Proficient in engineering production-grade Python models, statistical modeling and scientific/technical communication. 
  - See my personal webpage where I showcase my projects at: https://jorge-borbinha.github.io
 
